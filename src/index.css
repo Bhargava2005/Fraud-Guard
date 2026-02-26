@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+:root {
+  --bg-light: #f8fafc;
+  --bg-panel: #ffffff;
+  --border-subtle: #e2e8f0;
+  --accent-blue: #3b82f6;
+  /* For primary highlights */
+  --accent-teal: #10b981;
+  /* For positive indicators */
+  --accent-red: #ef4444;
+  /* For negative/loss indicators */
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  --shadow-color: rgba(148, 163, 184, 0.15);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-light);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Base Panel Styles */
+.panel {
+  background: var(--bg-panel);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px var(--shadow-color), 0 2px 4px -1px var(--shadow-color);
+  transition: all 0.2s ease-in-out;
+}
+
+.panel:hover {
+  box-shadow: 0 10px 15px -3px var(--shadow-color), 0 4px 6px -2px var(--shadow-color);
+}
+
+/* Typography Enhancements */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: var(--text-primary);
+  letter-spacing: -0.025em;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--accent-blue), var(--accent-teal));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-secondary);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
