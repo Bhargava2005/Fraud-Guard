@@ -1,0 +1,14 @@
+order_id,customer_id,product_id,order_status,payment_method,shipping_city,shipping_pincode,shipping_address,order_date,cancel_reason,promo_code_used,promo_discount,device_used,order_value,item_quantity,identical_items,failed_payment_attempts,order_hour,checkout_time_sec,address_mismatch,order_velocity,customer_tenure_days
+253538,413645,435022,Returned,Net Banking,Bhopal,535537,"23/50, Badal Nagar",17-12-2025,Changed Mind,YES,27.4,Desktop App,9000,3,1,0,13,200,0,3,75
+919985,370895,576396,Returned,Net Banking,Lucknow,709229,"H.No. 92, Talwar Circle",02-01-2026,None,YES,295.46,Desktop App,20000,4,1,4,3,180,0,5,55
+914955,860797,651898,Returned,COD,Bangalore,478354,"H.No. 86, Aurora Ganj",05-01-2026,None,YES,58.94,Desktop App,10000,4,2,0,3,25,0,4,55
+798319,684585,651898,Returned,COD,Kolkata,523764,"H.No. 70, Chahal Street",17-12-2025,None,NO,0,Desktop App,10000,4,2,3,3,25,0,4,55
+574164,705524,463320,Returned,COD,Ahmedabad,654242,"H.No. 788
+Kumer Road",10-12-2025,None,NO,0,Web Browser,10000,5,2,3,3,25,0,4,55
+415424,383377,435022,Returned,COD,Bangalore,247462,"H.No. 399, Munshi Street",19-01-2026,Delivery Too Late,YES,357.75,Web Browser,10000,5,3,3,3,25,0,4,55
+371832,684585,651898,Returned,COD,Delhi,762219,"651
+Kata Zila",09-01-2026,Found Better Price,YES,109.9,Web Browser,10000,5,3,3,6,30,0,4,60
+133714,370895,292887,Returned,COD,Indore,350284,"H.No. 74, Dayal Circle",26-12-2025,None,NO,0,Mobile App,21000,5,3,3,3,25,1,5,55
+911202,684585,955528,Returned,Net Banking,Delhi,448308,"062, Bhandari Chowk",15-01-2026,None,YES,83.68,Mobile App,19000,4,1,2,3,25,1,5,45
+621920,858794,955528,Returned,COD,Nagpur,599388,"H.No. 04
+Dass Path",30-12-2025,None,YES,273.47,Web Browser,15000,2,2,1,6,20,0,6,30

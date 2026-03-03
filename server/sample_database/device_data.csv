@@ -1,0 +1,11 @@
+device_id,customer_id,device_type,brand,model,os,os_version,browser,screen_resolution,network_type,isp,ip_address,mac_address,device_age_days,accounts_per_device,emulator_detected,rooted_or_jailbroken,vpn_used,ip_changes_24h,geo_distance_km,login_frequency,failed_login_attempts
+425259,370895,Desktop,Lenovo,Lenovo RW-466,Windows,9.7,Opera,1366x768,4G,ACT Fibernet,117.172.80.147,8e:b6:a4:39:4d:7f,1400,0,1,1,0,1,200,10,0
+897947,160961,Mobile,Dell,Dell DG-402,Windows,15.9,Brave,1366x768,3G,Jio,50.226.226.153,e0:5c:bd:58:aa:d5,500,1,0,0,0,3,400,15,1
+387587,684585,Desktop,Acer,Acer XL-697,Windows,13,Chrome,1920x1080,3G,Vi,43.190.89.162,88:9f:a7:4d:9b:d2,50,1,0,0,0,2,350,18,2
+974002,413645,Mobile,HP,HP BD-425,MacOS,13,Safari,720x1280,5G,Hathway,6.143.161.32,d4:47:b3:76:ec:7c,25,2,0,0,1,4,600,28,3
+157361,413645,Mobile,Samsung,Samsung OC-183,Android,14.3,Edge,1080x1920,Broadband,ACT Fibernet,10.19.113.245,80:44:95:43:3c:11,20,2,0,0,1,5,700,28,3
+763472,370895,Laptop,Acer,Acer XR-389,MacOS,15.2,Brave,1920x1080,Broadband,BSNL,43.181.84.87,74:d3:d7:79:17:6b,15,3,0,0,1,5,800,32,3
+274365,631475,Laptop,Realme,Realme BS-352,iOS,11.5,Edge,720x1280,WiFi,ACT Fibernet,14.97.100.219,30:af:05:75:16:bb,80,2,0,1,1,3,400,40,4
+971716,413645,Laptop,Apple,Apple XV-813,iOS,8.1,Brave,1920x1080,4G,Vi,185.239.17.249,30:08:ff:40:b0:a6,6,3,1,0,1,6,1400,36,4
+873992,383377,Mobile,Dell,Dell KB-877,MacOS,8.1,Firefox,1080x1920,3G,Hathway,69.87.246.236,dc:d5:55:58:03:a9,500,1,0,1,0,7,1800,38,5
+403801,370895,Desktop,Xiaomi,Xiaomi HB-693,Android,10.3,Chrome,720x1280,3G,Tata Sky Broadband,204.113.88.93,58:6d:f2:5a:2b:9d,900,0,1,1,0,3,280,45,4

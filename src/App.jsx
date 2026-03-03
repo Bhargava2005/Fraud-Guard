@@ -7,6 +7,7 @@ import FeatureImportance from './components/FeatureImportance';
 import AdditionalCharts from './components/AdditionalCharts';
 import Simulation from './components/Simulation';
 import LandingPage from './components/LandingPage';
+import GeoGeographicalAnalysis from './components/Geographicalanalysis.jsx';
 import { Activity, Database, PlayCircle, LayoutDashboard, ShieldCheck, Info, Home } from 'lucide-react';
 
 function App() {
@@ -67,6 +68,11 @@ function App() {
             isActive={activeTab === 'simulation'}
             onClick={() => setActiveTab('simulation')}
           />
+          {/* <NavItem
+            icon={<GeoGeographicalAnalysis />} label="Simulation"
+            isActive={activeTab === 'Geo Analysis'}
+            onClick={() => setActiveTab('Geo Analysis')}
+          /> */}
         </nav>
 
         <div className="p-6 border-t border-[var(--border-subtle)] bg-gray-50">

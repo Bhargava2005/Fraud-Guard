@@ -1,0 +1,16 @@
+logistics_id,order_id,courier_company,courier_agent_id,vehicle_type,tracking_number,delivery_status,package_condition,return_reason,pickup_location,delivery_city,delivery_pincode,delivery_address,pickup_date,expected_delivery_date,actual_delivery_date,courier_risk_score,delivery_attempts,delivery_delay_days,otp_confirmation,delivery_photo,pickup_delay_days,pickup_attempts,tamper_route,distance_km,weight_mismatch
+687733,919985,Shadowfax,AGT61031,Tempo,TRKXQ63030031,Delivered,Tampered,None,Pune Warehouse,Indore,429193,"91, Malhotra Ganj",11-01-2026,04-02-2026,27-02-2026,0.5,2,4,1,1,4,2,0,600,0
+718903,371832,India Post,AGT48015,Van,TRKPA48650512,Lost in Transit,Damaged,None,Mumbai Warehouse,Nagpur,711469,"94
+Khosla Nagar",08-01-2026,01-02-2026,,0.7,2,6,1,1,4,2,0,700,0
+985429,911202,Amazon Logistics,AGT93419,Bike,TRKKD31735247,Pending Pickup,Slightly Damaged,None,Bangalore Fulfillment,Mumbai,762104,"00, Shanker Road",26-01-2026,31-01-2026,,0.7,2,6,1,0,4,2,0,750,0
+661718,914955,BlueDart,AGT56797,Bike,TRKDS39789135,Lost in Transit,Damaged,None,Bangalore Fulfillment,Bhopal,882359,"501
+Palla Path",12-01-2026,02-02-2026,,0.52,3,6,1,0,4,2,0,800,0
+499971,253538,Shadowfax,AGT73319,Mini Truck,TRKPX98525541,Pending Pickup,Damaged,None,Chennai Depot,Bangalore,213637,"753
+Din Chowk",07-01-2026,04-02-2026,,0.72,3,6,1,0,5,2,0,850,0
+706254,415424,Amazon Logistics,AGT58551,Tempo,TRKOR48661474,Lost in Transit,Slightly Damaged,None,Ahmedabad Center,Hyderabad,858096,"139, Choudhary Path",07-01-2026,05-02-2026,,0.72,3,6,1,0,6,2,0,900,0
+360375,574164,DHL,AGT46583,Auto,TRKCY47159639,Pending Pickup,Damaged,None,Chennai Depot,Lucknow,968695,"28
+Bansal Chowk",09-01-2026,07-02-2026,,0.75,3,6,0,0,6,2,0,900,0
+916450,253538,Delhivery,AGT50277,Bike,TRKWO44166601,In Transit,Damaged,None,Chennai Depot,Surat,380609,"49/40, Dugar Ganj",28-01-2026,04-02-2026,,0.78,3,7,0,0,7,3,0,1000,0
+422960,415424,Amazon Logistics,AGT89273,Tempo,TRKIN15418781,Pending Pickup,Tampered,None,Chennai Depot,Kolkata,586826,"61/684, Kulkarni Path",16-01-2026,04-02-2026,,0.93,4,12,1,0,11,2,0,750,0
+695714,574164,Delhivery,AGT57600,Mini Truck,TRKVD30347631,In Transit,Tampered,None,Hyderabad Center,Jaipur,760590,"228
+Vohra Path",11-01-2026,31-01-2026,,0.48,2,4,1,1,4,4,1,2400,1

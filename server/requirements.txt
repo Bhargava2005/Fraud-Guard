@@ -1,0 +1,9 @@
+flask
+lightgbm
+pandas
+numpy
+scikit-learn
+joblib
+catboost
+faker
+xgboost

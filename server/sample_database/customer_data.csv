@@ -1,0 +1,14 @@
+customer_id,full_name,first_name,last_name,gender,age,phone,email,address,city,state,pincode,account_type,kyc_status,account_age_days,total_orders,return_rate,avg_order_value,cod_percentage,end_window_returns,damaged_claim_rate,linked_accounts,vpn_usage,past_fraud_flag
+443882,Anusha Agrawal,Anusha,Agrawal,Female,28,+91 9510612500,anusha.agrawal46@hotmail.com,"15, Jani Circle",Surat,Delhi,144151,Silver,Not Submitted,1200,80,0.1,3500,0.2,0.15,0.1,0,0,0
+858794,Bachittar Goda,Bachittar,Goda,Male,24,+91 6179766560,bachittar.goda19@gmail.com,"520
+Krishnamurthy",Pune,Rajasthan,158024,Silver,Verified,75,12,0.2,1800,0.3,0.2,0.2,0,0,0
+860797,Warhi Bedi,Warhi,Bedi,Female,44,+91 8242319445,warhi.bedi32@outlook.com,"26/584, Sharma Marg",Ahmedabad,Delhi,306719,Regular,Not Submitted,70,10,0.22,1500,0.35,0.25,0.22,0,1,0
+684585,Tanmayi Nori,Tanmayi,Nori,Female,56,+91 7133900537,tanmayi.nori7@rediffmail.com,"24
+Sarna",Lucknow,Karnataka,933071,Regular,Verified,65,8,0.25,1200,0.65,0.3,0.25,0,1,0
+370895,Divya Sen,Divya,Sen,Female,23,+91 9565886391,divya.sen51@gmail.com,"H.No. 140
+Kumer Nagar",Hyderabad,Rajasthan,532468,Premium,Not Submitted,80,9,0.42,2000,0.55,0.45,0.3,1,1,0
+413645,Advika Goel,Advika,Goel,Female,38,+91 7254611004,advika.goel73@yahoo.com,"H.No. 008, Korpal Chowk",Ahmedabad,Telangana,659038,Gold,Not Submitted,500,40,0.5,2500,0.65,0.55,0.55,1,0,0
+383377,Liam Din,Liam,Din,Male,42,+91 8882318423,liam.din67@outlook.com,"277, Dugar Street",Pune,Maharashtra,828939,Gold,Verified,200,25,0.55,1800,0.58,0.6,0.45,3,1,0
+160961,Triveni Kata,Triveni,Kata,Female,58,+91 6162911086,triveni.kata30@outlook.com,"94/62, Ghosh Street",Delhi,West Bengal,256022,Regular,Pending,60,7,0.65,900,0.7,0.62,0.58,3,1,0
+705524,Hredhaan Hora,Hredhaan,Hora,Male,32,+91 8247157966,hredhaan.hora33@gmail.com,"43, Chaudhuri Nagar",Nagpur,Delhi,585111,Regular,Not Submitted,55,5,0.72,700,0.75,0.68,0.62,3,1,1
+631475,Baljiwan Mutti,Baljiwan,Mutti,Male,30,+91 9342108409,baljiwan.mutti9@yahoo.com,"H.No. 26, Oak Circle",Jaipur,Tamil Nadu,501905,Premium,Pending,30,3,0.9,400,0.95,0.88,0.85,5,1,1
